@@ -1,0 +1,138 @@
+*{
+	padding: 0;
+	madding: 0;
+	box-sizing: border-box;
+}
+@font-face{
+	font-family: RobotoR;
+	src: url(../fonts/Roboto-Regular.ttf);
+}
+html,body,main{
+	height: 100%;
+	font-family: RobotoR;
+}
+.first{
+	height: 100%;
+	background-image: url(../img/img1.jpg);
+	background-position:center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.first p{
+	color: white;
+
+}
+.tourism{
+	width: 100%;
+	text-align: center;
+	padding: 79px;
+font-size: 15px;
+}
+.gallery-text{
+
+}
+.text-container{
+	width: 40%;
+	margin-left: 13%;
+	margin-top: 13%;
+
+}
+.first-line{
+	text-transform: uppercase;
+	font-size: 24px;
+	font-weight: bold;
+	letter-spacing: 1px;
+	line-height: 0.01;
+	opacity: 0.5;
+}
+.second-line{
+	font-size: 50px;
+	line-height: 0.01;
+	font-wight: extra-bold;
+letter-spacing: 3px;
+
+}
+.third-line{
+font-size: 20px;
+opacity: 0.5;
+}
+.second{
+	height: 100%;
+	display: flex;
+	justify-content: center;
+	-ms-align-items: center;
+	align-items: flex-start;
+}
+.gallery-container{
+	width: 100%;
+	max-width: ;
+}
+.img-container{
+	width: 100%;
+	display: flex;
+	-ms-align-items: flex-start;
+	align-items: flex-start;
+}
+
+img{
+	display: block;
+	max-width: 100%;
+	height: auto;
+box-shadow: 0 0 10px 1px rgba(0,0,0,3);
+
+}
+.img1{
+	width: 35%;
+}
+.wrapper{
+	margin-left: 20px;
+}
+.img2{
+	margin-bottom: 20px;
+}
+.gallery-text{
+	
+	justify-content: space-between;
+	-ms-align-items: center;
+	align-items: center;
+	margin-bottom: 20px;
+}
+.gallery-header{
+	margin-left: 40px;
+	font-size: 40px;
+	font-weight: bold;
+	letter-spacing: 2px;
+	line-height: 1;
+}
+.galery.p{
+	font-size: 18px;
+}
+.last-container
+{
+	display: flex;
+	justify-content: center;
+	-ms-align-items: center;
+	align-items: center;
+	flex-direction: column;
+	heigh: 300px;
+	padding: 25%;
+	background-image: url(../img/img3.jpg);
+	background-position: center;
+	-webkit-background-size: cover;
+	background-size: cover;
+	font-family: Roboto;
+}
+.last-header{
+	color: white;
+	font-size: 21px;
+	padding: 10px 20px;
+	border: 1px solid white;
+	margin-bottom: 40px;
+}
+.last-p{
+	color: white;
+	font-size: 17px;
+	text-align: center;
+	line-height: 1.9;
+	letter-spacing: 1px;
+}
