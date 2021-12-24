@@ -1,0 +1,13 @@
+C:\Users\Coddy\source\repos\kursach\kursach\bin\Debug\kursach.exe.config
+C:\Users\Coddy\source\repos\kursach\kursach\bin\Debug\kursach.exe
+C:\Users\Coddy\source\repos\kursach\kursach\bin\Debug\kursach.pdb
+C:\Users\Coddy\source\repos\kursach\kursach\obj\Debug\kursach.csproj.AssemblyReference.cache
+C:\Users\Coddy\source\repos\kursach\kursach\obj\Debug\kursach.csproj.SuggestedBindingRedirects.cache
+C:\Users\Coddy\source\repos\kursach\kursach\obj\Debug\kursach.Form1.resources
+C:\Users\Coddy\source\repos\kursach\kursach\obj\Debug\kursach.Properties.Resources.resources
+C:\Users\Coddy\source\repos\kursach\kursach\obj\Debug\kursach.csproj.GenerateResource.cache
+C:\Users\Coddy\source\repos\kursach\kursach\obj\Debug\kursach.csproj.CoreCompileInputs.cache
+C:\Users\Coddy\source\repos\kursach\kursach\obj\Debug\kursach.exe
+C:\Users\Coddy\source\repos\kursach\kursach\obj\Debug\kursach.pdb
+C:\Users\Coddy\source\repos\kursach\kursach\obj\Debug\kursach.Form2.resources
+C:\Users\Coddy\source\repos\kursach\kursach\obj\Debug\kursach.Form3.resources
