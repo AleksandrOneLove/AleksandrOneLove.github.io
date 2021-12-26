@@ -105,7 +105,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="images\2561260_edit_icon.png" />
     <Content Include="images\2931167_doc_document_file_sheet_text_icon.png" />
+    <None Include="Resources\2561260_edit_icon.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
