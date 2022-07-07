@@ -1,0 +1,25 @@
+body{
+			background-color: white;
+		}
+		p{
+            font-size: 90px;
+		}
+		a{
+			font-size: 50px;
+			color: blue;
+			text-decoration: none;
+			display: inline-block;
+			margin: 40px;
+			border-bottom: ;
+			transition: ;
+		}
+		img{
+			max-width: 100%;
+		}		
+		div{
+			width: 80%;
+			margin: auto;
+			padding: 40px;
+			background-color: grey;
+			box-shadow: 0 0 50px 30px #aa00ff;
+		}																													
