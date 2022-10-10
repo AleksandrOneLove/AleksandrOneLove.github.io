@@ -1,0 +1,45 @@
+p{
+			font-size:25px;
+		color:#9CFF2E;
+		font-family:arial;
+		margin:30px 40px;
+		text-align:center;
+		font-family: 'Press Start 2P', cursive;
+
+		}
+		body{
+background-color:black;
+background-image: url(tetrad smerti.JPG);
+		}
+h1{
+	color:white;
+	text-align:center;
+}
+
+
+img{
+height:700px ;
+width: 1200px;
+
+}
+div{
+background-color:black;
+width:90%;
+margin:auto;
+box-shadow: 0 0 40px 10px rgba(100%, 100%, 100%, 1);
+}
+a{
+text-decoration:none;
+color:white;
+display:block;
+margin:20px;
+text-align:center;
+font-size:30px;
+
+
+}
+a:hover{
+color:yellow;
+text-decoration:underline;
+
+}
