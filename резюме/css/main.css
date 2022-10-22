@@ -1,0 +1,11 @@
+img{
+	width: 200px;
+	height: 200px;
+}
+p{
+	font-size: 32px;
+}
+body{
+	weight: 80%;
+	background-color: lightgrey;
+}
