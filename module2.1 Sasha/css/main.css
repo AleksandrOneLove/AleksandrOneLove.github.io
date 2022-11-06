@@ -1,0 +1,35 @@
+.img-box{
+	column-count: 4;
+	column-gap: 5px;
+	width: 90%;
+	margin: auto;
+}
+.image{
+	max-width: 100%;
+	display: block;
+	filter: grayscale(1.5);
+}
+.image:hover{
+	filter: grayscale(0);
+}
+.image+.image{
+	margin: 5px 0;
+}
+.heading{
+	text-align: center;
+	font-size: 50px;
+	color: darkblue;
+}
+body{
+	background-color: #6595AC;
+	font-family: 'Comforter Brush', cursive;
+font-family: 'Marck Script', cursive;
+}
+@media all and (max-width: 768px){
+	.img-box{
+		column-count: 1;
+	}
+}
+a{
+	text-decoration: none;
+}
