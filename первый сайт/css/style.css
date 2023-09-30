@@ -1,0 +1,38 @@
+body{
+	background-color: #7badaa;
+	width: 80%;
+	margin: auto;
+	box-shadow: 0 0 50px 10px black;
+	font-family: 'Exo 2', sans-serif;
+}
+h1{
+	font-size: 50px;
+	text-align: center;
+	color:#14103d;
+}
+h3{
+	font-size: 40px;
+	text-align: center;
+	color:#14103d;
+}
+h5{
+	font-size: 30px;
+	color:#14103d;
+}
+p{
+	font-size: 28px;
+	color:#0d0661;
+}
+img{
+	width:600px;
+	height:400px;
+}
+a{
+	font-size: 30px;
+	color:#0d0661;
+	text-decoration: none;
+}
+
+div{
+	background-color: grey;
+}
