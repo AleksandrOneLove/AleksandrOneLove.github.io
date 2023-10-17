@@ -1,0 +1,35 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+body{
+	background-color: grey;
+}
+.main{
+	background-color: darkblue;
+	width: 90%;
+	margin: auto;
+	display: flex;
+	flex-wrap: wrap;
+	box-shadow: 0 0 50px 20px black;
+}
+.item{
+	height: 300px;
+	width: 536.5px;
+	margin: 5px;
+	background-color: grey;
+	background-position: center;
+	background-size: cover;
+	transition: 1s;
+}
+.heading{
+	font-size: 60px;
+	color: white;
+	width: 100%;
+	text-align: center;
+	margin: 20px;
+}
+.item:hover{
+	transform: rotate(-45deg) scale(0.6);
+	box-shadow: 0 0 60px 40px black;
+}
